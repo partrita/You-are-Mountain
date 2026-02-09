@@ -1,5 +1,3 @@
-# Preface {.unnumbered}
-
 "The ultimate seeker's guide for those brave enough to face their true north and take their power back.'
 
 - JENNA BLACK, INTERNATIONAL COACH
@@ -2873,3 +2871,13 @@ This is the guide to getting out of your own way. I Am the Hero of My Own Life i
 – Drafting a Venn diagram of your skills, your passions, and the world’s needs.   
 – Outlining exactly the type of partner you always dreamed of marrying, then strategizing how you’re going to embody those traits yourself.   
 – Envisioning what you’d think about and what you’d do all day if you were already healed, whole and happy.
+
+# THOUGHT CATALOG Books
+
+T H O U G H T C ATA LO G B O O K S is a publishing imprint of Thought Catalog, a digital magazine for thoughtful storytelling. Thought Catalog is owned by The Thought & Expression Company, an independent media group based in Brooklyn, NY, which also owns and operates Shop Catalog, a curated shopping experience featuring our best-selling books and one-of-a-kind products, and Collective World, a global creative community network. Founded in 2010, we are committed to helping people become better communicators and listeners to engender a more exciting, attentive, and imaginative world. As a publisher and media platform, we help creatives all over the world realize their artistic vision and share it in print and digital form with audiences across the globe.
+
+ThoughtCatalog.com | Thoughtful Storytelling
+
+ShopCatalog.com | Boutique Books $^ +$ Curated Products
+
+Collective.world | Creative Community Network
