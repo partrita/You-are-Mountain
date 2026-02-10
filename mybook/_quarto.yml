@@ -3,20 +3,27 @@ project:
   output-dir: docs
 
 book:
-  title: "mybook"
-  author: "Norah Jones"
+  title: "당신은 산이다"
+  author: "브리아나 위스트(Brianna Wiest)"
   date: "1/24/2026"
   chapters:
     - index.qmd
+    - chapter1.qmd
+    - chapter2.qmd
+    - chapter3.qmd
+    - chapter4.qmd
+    - chapter5.qmd
+    - chapter6.qmd
+    - about.qmd
 
 bibliography: references.bib
 
 format:
   html:
     theme:
-      - default
+      - cosmo
       - brand
-
+    number-sections: false
 execute:
   freeze: auto
 
